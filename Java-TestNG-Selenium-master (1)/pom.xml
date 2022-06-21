@@ -13,7 +13,7 @@
 			<resource>
 				<directory>src</directory>
 				<excludes>
-					<exclude>src/test/java/com/lambdatest/*.java</exclude>
+					<exclude>Java-TestNG-Selenium-master (1)/src/test/java/com/lambdatest/*.java</exclude>
 				</excludes>
 			</resource>
 		</resources>
